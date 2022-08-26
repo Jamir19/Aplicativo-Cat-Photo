@@ -1,3 +1,3 @@
 # Aplicativo-Cat-Photo
 
-Aplicativo de fotos de gato desenvolvido exclusivamente com HTML.
+Aplicativo de fotos de gatos desenvolvido exclusivamente com HTML.
